@@ -1,8 +1,7 @@
 # question-1
-<! DOCTYPE html>
+<html>
 <html>
 <head>
-<title>Question1</title>
 </head>
 <body>
 <!-- Design & Develop your code here -->
